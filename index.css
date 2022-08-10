@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+*{
+  background-image: url('gab.png');
+  
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  align-items: center;
+}
+
+h1{
+  color: #ffffff;
+  
+}
